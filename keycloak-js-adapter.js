@@ -1,3 +1,3 @@
 'use strict';
 
-module.exports = require('./src/keycloak');
+module.exports = require('./dist/keycloak.min');
