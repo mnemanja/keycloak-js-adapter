@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/mnemanja/keycloak-js-adapter/issues"
   },
-  "homepage": "https://github.com/mnemanja/keycloak-js-adapter#readme"
+  "homepage": "https://github.com/mnemanja/keycloak-js-adapter#readme",
+  "dependencies": {
+    "keycloak-js": "git+https://github.com/keycloak/keycloak-js-bower.git"
+  }
 }
