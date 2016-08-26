@@ -1221,4 +1221,6 @@
             define( "keycloak", [], function () { return Keycloak; } );
         }
     }
+
+    export default Keycloak;
 })( window );
