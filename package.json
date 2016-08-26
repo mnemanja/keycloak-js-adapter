@@ -2,7 +2,7 @@
   "name": "keycloak-js-adapter",
   "version": "1.0.0",
   "description": "",
-  "main": "dist/\u001b[2~\u001b[2~\u001b[2~keycloak.min.js",
+  "main": "src/keycloak.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
